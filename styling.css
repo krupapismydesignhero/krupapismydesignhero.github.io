@@ -5,13 +5,14 @@ body {
 
 .white_bg 
 {
-    padding: 3px;
+    padding: 8px;
 }
 
 h1 {
 	text-align: right;
     background-color: #ffffff;
 	color: powderblue;
+    padding: 3px;
 }
 
 p {
